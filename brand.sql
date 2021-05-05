@@ -8,7 +8,7 @@ insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112007','Asu
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112008','Huawei');
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112009','Acer');
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112010','Lenovo');
-insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112011','Gigabyte');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112011','HP');
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112012','Sony');
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112013','Panasonic');
 insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112014','Realme');

@@ -8,4 +8,3 @@ insert into `smartphonedb`.`color` (`colorId`,`colorName`,`colorCode`) values ('
 insert into `smartphonedb`.`color` (`colorId`,`colorName`,`colorCode`) values ('132008','Gold','');
 insert into `smartphonedb`.`color` (`colorId`,`colorName`,`colorCode`) values ('132009','Silver','');
 insert into `smartphonedb`.`color` (`colorId`,`colorName`,`colorCode`) values ('132010','Gray','');
-insert into `smartphonedb`.`color` (`colorId`,`colorName`,`colorCode`) values ('132011','Lightblue','');
