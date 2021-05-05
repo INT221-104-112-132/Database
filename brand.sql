@@ -1,0 +1,15 @@
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112001','VIVO');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112002','Samsung');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112003','OPPO');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112004','Nokia');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112005','Xiaomi');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112006','Apple');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112007','Asus');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112008','Huawei');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112009','Acer');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112010','Lenovo');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112011','Gigabyte');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112012','Sony');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112013','Panasonic');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112014','Realme');
+insert into `smartphonedb`.`brand` (`brandId`,`brandName`) values ('112015','Google');
