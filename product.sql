@@ -1,99 +1,32 @@
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104001','VIVO V7','smartphone1','5900','2017-12-11','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104002','VIVO V9','smartphone2','7900','2018-04-21','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104003','VIVO V15','smartphone3','9900','2019-03-06','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104004','VIVO Y19','smartphone4','7900','2019-11-08','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104005','VIVO Y70','smartphone5','9900','2020-10-19','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104006','VIVO Y11s','smartphone6','11900','2021-01-05','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104007','VIVO V20','smartphone7','12990','2021-05-05','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104008','VIVO V20 Pro','smartphone8','13590','2020-09-30','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104009','VIVO Y20s','smartphone9','9990','2020-10-19','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104010','VIVO S7e','smartphone10','6900','2020-11-20','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104011','VIVO Y51a','smartphone11','9900','2021-01-23','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104012','VIVO V21','smartphone12','7900','2021-05-05','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104013','VIVO V21e','smartphone13','10900','2021-05-05','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104014','VIVO X60 Pro','smartphone14','12990','2021-04-02','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104015','VIVO Y31s','smartphone15','9990','2021-01-15','112001');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104016','Samsung Galaxy Note A20s','smartphone16','5300','2018-03-09','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104017','Samsung Galaxy Note A70s','smartphone17','6900','2020-07-13','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104018','Samsung Galaxy Note A51','smartphone18','9990','2020-09-26','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104019','Samsung Galaxy Note A01','smartphone19','7900','2019-11-16','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104020','Samsung Galaxy Note S10','smartphone20','8900','2019-02-28','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104021','Samsung Galaxy Note S20','smartphone21','6900','2021-07-17','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104022','Samsung Galaxy Note M31','smartphone22','7900','2018-10-04','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104023','Samsung Galaxy Note M21','smartphone23','11900','2019-08-12','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104024','Samsung Galaxy Note A41','smartphone24','6900','2019-07-30','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104025','Samsung Galaxy Note A31','smartphone25','11900','2019-11-01','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104026','Samsung Galaxy Note M11','smartphone26','7900','2020-03-08','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104027','Samsung Galaxy Note A42','smartphone27','9990','2020-06-24','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104028','Samsung Galaxy Note F12','smartphone28','6900','2021-01-04','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104029','Samsung Galaxy Note M12','smartphone29','9990','2021-04-14','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104030','Samsung Galaxy Note M42 5G','smartphone30','300','2021-04-21','112002');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104031','OPPO A15','smartphone2','7990','2017-03-06','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104032','OPPO F19 ','smartphone2','7990','2020-12-12','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104033','OPPO A35','smartphone2','6900','2017-06-09','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104034','OPPO A55','smartphone2','7990','2019-11-06','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104035','OPPO A73','smartphone2','7990','2021-03-20','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104036','OPPO Reno4 SE','smartphone2','7990','2019-06-08','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104037','OPPO A74 5G','smartphone2','9990','2021-03-16','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104038','OPPO A54 5G','smartphone2','6900','2021-01-29','112003');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104039','Nokia C10','smartphone2','9990','2016-07-16','112004');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104040','Nokia G10','smartphone2','9990','2018-07-31','112004');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104041','Nokia G20','smartphone2','7990','2019-03-16','112004');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104042','Nokia X10','smartphone2','6900','2021-05-28','112004');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104043','Nokia X20','smartphone2','11900','2020-09-23','112004');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104044','Xiaomi Mi 11','smartphone2','10900','2019-07-30','112005');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104045','Xiaomi Redmi Note 10','smartphone2','9990','2021-04-15','112005');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104046','Xiaomi Redmi Note 9','smartphone2','9990','2021-02-12','112005');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104047','Xiaomi Mi 10','smartphone2','7990','2020-11-12','112005');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104048','Xiaomi Poco F.','smartphone2','11900','2019-12-31','112005');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104049','Apple IPhone 10','smartphone2','10900','2019-06-08','112006');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104050','Apple IPhone 11','smartphone2','12990','2020-07-22','112006');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104051','Apple IPhone 12','smartphone2','6900','2021-01-01','112006');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104052','Apple IPad Pro 11','smartphone2','10900','2020-06-16','112006');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104053','Apple IPad Pro 12','smartphone2','10900','2021-04-26','112006');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104054','ASUS Zenfone 6','smartphone2','7990','2018-09-17','112007');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104055','ASUS Zenfone 7 Pro','smartphone2','6900','2019-12-09','112007');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104056','ASUS ROG Phone II','smartphone2','7990','2020-03-18','112007');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104057','ASUS ROG Phone 3','smartphone2','6900','2020-11-05','112007');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104058','ASUS ROG Phone 5','smartphone2','12990','2021-02-26','112007');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104059','Huawei nova 8SE','smartphone2','7990','2018-03-06','112008');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104060','Huawei Nova 8Pro','smartphone2','12990','2017-12-11','112008');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104061','Huawei P40','smartphone2','9990','2020-02-03','112008');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104062','Huawei Mate 40','smartphone2','9990','2020-06-18','112008');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104063','Huawei Mate 40 Pro','smartphone2','9990','2021-01-06','112008');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104064','Acer Liquid Zest','smartphone2','6900','2018-03-04','112009');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104065','Acer Liquid Jade 2','smartphone2','6900','2019-05-14','112009');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104066','Acer Liquid X2','smartphone2','11900','2021-03-16','112009');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104067','Acer Liquid Z6','smartphone2','7990','2020-09-26','112009');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104068','Acer Iconia Talk S','smartphone2','7990','2020-07-14','112009');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104069','Lenovo A6 Note','smartphone2','7990','2017-04-23','112010');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104070','Lenovo A7','smartphone2','6900','2018-05-27','112010');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104071','Lenovo K10 Note','smartphone2','6900','2020-11-16','112010');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104072','Lenovo Z6','smartphone2','7990','2020-05-05','112010');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104073','Lenovo Z6 Pro','smartphone2','11900','2020-06-07','112010');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104074','HP 7 Plus','smartphone2','7990','2018-01-15','112011');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104075','HP 10 Plus','smartphone2','6900','2019-01-31','112011');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104076','HP Slate 17','smartphone2','7990','2020-04-01','112011');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104077','HP Pro Slate 12','smartphone2','6900','2020-06-02','112011');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104078','HP Eite x3','smartphone2','11900','2021-02-21','112011');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104079','Sony Xperia 1 II','smartphone2','12990','2018-05-01','112012');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104080','Sony Xperia Pro','smartphone2','7990','2018-01-01','112012');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104081','Sony Xperia 10 III','smartphone2','11900','2021-05-01','112012');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104082','Sony Xperia 5 III','smartphone2','6900','2020-01-2','112012');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104083','Sony Xperia 1 III','smartphone2','7990','2020-11-30','112012');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104084','Panasonic P95','smartphone2','12990','2018-04-12','112013');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104085','Panasonic P90','smartphone2','7990','2019-04-23','112013');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104086','Panasonic Eluga X1 Pro','smartphone2','6900','2020-08-05','112013');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104087','Panasonic Eluga Ray 600','smartphone2','12990','2020-12-28','112013');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104088','Panasonic Eluga Z1 Pro','smartphone2','7990','2021-01-03','112013');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104089','Realme 8 Pro','smartphone2','6900','2017-12-11','112014');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104090','Realme V13','smartphone2','12990','2019-07-05','112014');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104091','Realme Q3','smartphone2','7990','2020-06-25','112014');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104092','Realme X7 Pro Ultra','smartphone2','7990','2020-08-31','112014');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104093','Realme GT NEO','smartphone2','11900','2021-03-13','112014');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104094','Google Pixel XL','smartphone2','7990','2019-04-17','112015');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104095','Google Pixel 2 XL','smartphone2','6900','2019-09-29','112015');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104096','Google Pixel 3 XL','smartphone2','12990','2020-01-12','112015');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104097','Google Pixel 4 XL','smartphone2','6900','2020-10-26','112015');
-insert into `smartphonedb`.`product` (`productId`,`productName`,`productDescription`,`price`,`manufactureDate`,`brand_brandId`) values ('104098','Google Pixel 5','smartphone2','11900','2020-12-06','112015');
+insert into  Product 
+values (104001,'VIVO V7','smartphone1','p01.jpg',5900,DATE('2017-12-11'),'112001');
+insert into Product
+values (104002,'Samsung Galaxy Note A20s','smartphone2','p02.jpg',5300,DATE('2018-03-09'),112002);
+insert into Product
+values (104003,'OPPO A15','smartphone3','p03.jpg',7990, DATE('2017-03-06'),112003);
+insert into Product
+values (104004,'Nokia C10','smartphone4','p04.jpg',9990, DATE('2016-07-16'),112004);
+insert into Product
+values (104005,'Xiaomi Mi 11','smartphone5','p05.jpg',10900, DATE('2019-07-30'),112005);
+insert into  Product
+values (104006,'Apple IPhone 10','smartphone6','p06.jpg',10900, DATE('2019-06-08'),112006);
+insert into Product
+values (104007,'ASUS Zenfone 6','smartphone7','p07.jpg',7990, DATE('2018-09-17'),112007);
+insert into Product
+values (104008,'Huawei nova 8SE','smartphone8','p08.jpg',7990,DATE('2018-03-06'),112008);
+insert into Product
+values (104009,'Acer Liquid Zest','smartphone9','p09.jpg',6900, DATE('2018-03-04'),'112009');
+insert into Product
+values (104010,'Lenovo A6 Note','smartphone10','p10.jpg',7990, DATE('2017-04-23'),'112010');
+insert into Product 
+values (104011,'HP 7 Plus','smartphone11','p11.jpg',7990, DATE('2018-01-15'),112011);
+insert into Product
+values (104012,'Sony Xperia 1 II','smartphone12','p12.jpg',12990, DATE('2018-05-01'),'112012');
+insert into Product
+values (104013,'Panasonic P95','smartphone13','p13.jpg',12990, DATE('2018-04-12'),112013);
+insert into Product
+values (104014,'Realme 8 Pro','smartphone14','p14.jpg',6900, DATE('2017-12-11'),112014);
+insert into Product
+values (104015,'Google Pixel XL','smartphone15','p15.jpg',7990, DATE('2019-04-17'),112015);
+
 
